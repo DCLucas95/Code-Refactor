@@ -1,4 +1,25 @@
-# 01 HTML CSS Git: Code Refactor
+# Title
+ 01 HTML CSS Git: Code Refactor
+
+## Contents
+<p>
+Please visit the site hosted on GitHub Pages to see working Html and CSS after refactoring.
+</p>
+
+## Built with
+<p>
+GitHub - Code repository and page hosting via GitHub Pages
+Visual Studio Code - For editing and authoring code
+Git Bash - For pulling and pushing new code
+</p>
+
+## Authors 
+<p>
+Code Refactored by David Lucas
+</p>
+```
+
+## Task
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
@@ -45,18 +66,3 @@ You are required to submit the following for review:
 Files Included  Relative Path
 index.html	index.html
 style.css	assets/css/style.css
-
-
-## URL of Deployed Application
-
-Visit the site hosted on GitHub Pages https://dclucas95.github.io/Homework-Week-1---Code-Refactor/.
-```
-
-## Tools used
-
- * Visual Studio Code - For editing and authoring code
- 
- * Git Bash - For pulling and pushing new code
- 
- * GitHub - Code repository/ URL Hosted on Github.io 
- ```
