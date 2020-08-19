@@ -48,9 +48,15 @@ style.css	assets/css/style.css
 
 
 ## URL of Deployed Application
+
 Visit the site hosted on GitHub Pages https://dclucas95.github.io/Homework-Week-1---Code-Refactor/.
+```
 
 ## Tools used
-Visual Studio Code - For editing and authoring code
-Git Bash - For pulling and pushing new code
-GitHub - Code repository/ URL Hosted on Github.io 
+
+ * Visual Studio Code - For editing and authoring code
+ 
+ * Git Bash - For pulling and pushing new code
+ 
+ * GitHub - Code repository/ URL Hosted on Github.io 
+ ```
