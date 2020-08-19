@@ -42,3 +42,15 @@ You are required to submit the following for review:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+Files Included  Relative Path
+index.html	index.html
+style.css	assets/css/style.css
+
+
+## Refactored Code
+Please visit the site hosted on GitHub Pages .
+
+## Tools used
+GitHub - Code repository and page hosting via GitHub Pages
+Visual Studio Code - For editing and authoring code
+Git Bash - For pulling and pushing new code
