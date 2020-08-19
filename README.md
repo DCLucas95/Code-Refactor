@@ -47,10 +47,10 @@ index.html	index.html
 style.css	assets/css/style.css
 
 
-## Refactored Code
-Please visit the site hosted on GitHub Pages .
+## URL of Deployed Application
+Visit the site hosted on GitHub Pages https://dclucas95.github.io/Homework-Week-1---Code-Refactor/.
 
 ## Tools used
-GitHub - Code repository and page hosting via GitHub Pages
 Visual Studio Code - For editing and authoring code
 Git Bash - For pulling and pushing new code
+GitHub - Code repository/ URL Hosted on Github.io 
