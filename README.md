@@ -17,7 +17,6 @@ Git Bash - For pulling and pushing new code
 <p>
 Code Refactored by David Lucas
 </p>
-```
 
 ## Task
 
